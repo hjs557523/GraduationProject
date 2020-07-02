@@ -22,7 +22,7 @@
         <java.version>1.8</java.version>
         <mybatis.version>2.1.1</mybatis.version>
         <mybatis-spring-boot>1.1.1</mybatis-spring-boot>
-        <mysql-connector>5.1.39</mysql-connector>
+        <mysql-connector>8.0.16</mysql-connector>
         <webVersion>3.0</webVersion>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
